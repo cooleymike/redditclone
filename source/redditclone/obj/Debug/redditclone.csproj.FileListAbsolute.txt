@@ -1,0 +1,6 @@
+C:\Users\hp\documents\visual studio 2013\Projects\redditclone\redditclone\bin\redditclone.dll.config
+C:\Users\hp\documents\visual studio 2013\Projects\redditclone\redditclone\bin\redditclone.dll
+C:\Users\hp\documents\visual studio 2013\Projects\redditclone\redditclone\bin\redditclone.pdb
+C:\Users\hp\documents\visual studio 2013\Projects\redditclone\redditclone\obj\Debug\redditclone.csprojResolveAssemblyReference.cache
+C:\Users\hp\documents\visual studio 2013\Projects\redditclone\redditclone\obj\Debug\redditclone.dll
+C:\Users\hp\documents\visual studio 2013\Projects\redditclone\redditclone\obj\Debug\redditclone.pdb
